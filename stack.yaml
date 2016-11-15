@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- ./
+- location: /home/kelly/helium/repos/airship
+  extra-dep: true
+resolver: nightly-2016-03-19

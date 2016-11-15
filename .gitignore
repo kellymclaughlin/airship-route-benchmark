@@ -1,0 +1,10 @@
+dist
+.cabal-sandbox/
+*.o
+*.hi
+*.chi
+*.chs.h
+.DS_Store
+.stack-work/
+TAGS
+*.html
